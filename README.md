@@ -59,8 +59,8 @@ dotnet run
 
 ## Структура проекта
 
-​
-``` WebMonitoring/
+```​
+ WebMonitoring/
 ├── Program.cs              # точка входа, REST API, настройка сервисов
 ├── appsettings.json        # конфигурация (интервал проверки)
 ├── Models/
@@ -73,4 +73,4 @@ dotnet run
 │   ├── TelegramNotifier.cs # отправка уведомлений в Telegram
 │   └── MonitorWorker.cs    # фоновая служба проверки по таймеру
 └── wwwroot/
-    └── index.html          # веб-панель со статусами ``` 
+    └── index.html          # веб-панель со статусами 
