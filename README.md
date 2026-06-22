@@ -34,8 +34,8 @@ dotnet run
 ```
 
 После запуска:
-- Веб-панель: `http://localhost:5000`
-- Swagger: `http://localhost:5000/swagger`
+- Веб-панель: `https://localhost:7170`
+- Swagger: `https://localhost:7170/swagger`
 
 ## Настройка Telegram-уведомлений (опционально)
 
