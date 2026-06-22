@@ -22,7 +22,7 @@
 - BackgroundService (фоновый воркер)
 - HttpClient
 - Entity Framework Core + SQLite
-- Swagger (Swashbuckle)
+- Swagger 
 
 ## Запуск
 
